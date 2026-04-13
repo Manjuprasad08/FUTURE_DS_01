@@ -34,5 +34,5 @@ Analyze business sales data to identify performance trends, key revenue drivers,
 - Business insight generation
 
 ## 🔗 Project Links
-- GitHub Repo:(https://github.com/Manjuprasad08/FUTURE_DS_01/edit/main/README.md)
+- GitHub Repo: https://github.com/Manjuprasad08/FUTURE_DS_01/edit/main/README.md
 
